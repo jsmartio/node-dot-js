@@ -41,3 +41,4 @@ app.get("/",function(req,res){-
 
 app.listen(3022);
 // going to mydomain.com:3022 works
+// testing also works on localhost
